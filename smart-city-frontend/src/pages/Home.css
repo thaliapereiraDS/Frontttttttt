@@ -1,0 +1,26 @@
+
+.home header {
+  text-align: center;
+  padding: 30px 20px;
+  background-color: #e9ecef;
+}
+
+.home nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.home nav a {
+  text-decoration: none;
+  color: #0d6efd;
+  font-weight: bold;
+}
+
+.preview-sensores {
+  text-align: center;
+  margin-top: 20px;
+}

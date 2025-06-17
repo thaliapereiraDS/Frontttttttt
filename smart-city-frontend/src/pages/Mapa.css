@@ -1,0 +1,11 @@
+
+.mapa {
+  text-align: center;
+  padding: 20px;
+}
+
+.mapa img {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 8px;
+}
