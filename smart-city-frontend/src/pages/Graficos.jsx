@@ -3,7 +3,7 @@ import {
   LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer
 } from 'recharts';
 import axios from 'axios';
-import './Graficos.css'; 
+import '../css/Graficos.css'; 
 
 const Graficos = () => {
   const [dados, setDados] = useState([]);

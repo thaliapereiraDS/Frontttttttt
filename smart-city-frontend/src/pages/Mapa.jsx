@@ -1,7 +1,7 @@
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
-import './Mapa.css';
+import '../css/Mapa.css';
 
 // Corrige o bug do ícone padrão do Leaflet
 delete L.Icon.Default.prototype._getIconUrl;

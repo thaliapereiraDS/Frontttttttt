@@ -1,5 +1,5 @@
 
-import './Sensores.css'; 
+import '../css/Sensores.css'; 
 
 const Sensores = () => {
   const sensores = [
